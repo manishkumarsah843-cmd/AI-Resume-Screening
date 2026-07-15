@@ -6,7 +6,7 @@ This project is a simple AI-based Resume Screening system that compares a resume
 ---
 
 ## 🌐 Live Demo
-🔗 https://manishkumarsah843-cmd.github.io/AI-Resume-screening/
+🔗 https://github.com/manishkumarsah843-cmd/AI-Resume-Screening.git
 
 ---
 
